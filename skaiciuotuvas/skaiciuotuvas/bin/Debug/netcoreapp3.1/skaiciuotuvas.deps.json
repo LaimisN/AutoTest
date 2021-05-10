@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Skaiciuotuvas/1.0.0": {
+        "runtime": {
+          "Skaiciuotuvas.dll": {}
+        },
+        "resources": {
+          "lt-LT/Skaiciuotuvas.resources.dll": {
+            "locale": "lt-LT"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skaiciuotuvas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
