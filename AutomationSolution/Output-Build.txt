@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: AutoTesting, Configuration: Debug Any CPU ------
+1>  AutoTesting -> C:\Users\Bullet\Documents\AutoTest\AutomationSolution\AutomationSolution\bin\Debug\AutomationSolution.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
